@@ -10,7 +10,7 @@
   <p align="center">
     우아한테크캠프 5기 2주차 미션 - Todo List
     <br>
-    <a href="http://13.125.203.17:3000/">View Demo</a>
+    <a href="https://woowa2022-web-todo.herokuapp.com/">View Demo</a>
   </p>
 </div>
 
